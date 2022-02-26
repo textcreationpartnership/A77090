@@ -1,0 +1,239 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A rope treble-twisted, for John Tayler the water-poet. Or rather for his malignant friends in London, which make use of his name to slander and abuse the Parliament, and well-affected party, in their pernicious pamphlets; and particularly, Mr. John Booker, a man of known honesty, and one who scornes to calculate for the meridian of Oxford. Snarle not, malignants: if you do, here's rope enough for you, and all that love the Pope.</title>
+            <author>Booker, John, 1603-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77090</idno>
+            <idno type="STC">Wing B3731</idno>
+            <idno type="STC">Thomason E10_14</idno>
+            <idno type="STC">ESTC R18206</idno>
+            <idno type="EEBO-CITATION">99860366</idno>
+            <idno type="PROQUEST">99860366</idno>
+            <idno type="VID">154775</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77090)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154775)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 2:E10[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A rope treble-twisted, for John Tayler the water-poet. Or rather for his malignant friends in London, which make use of his name to slander and abuse the Parliament, and well-affected party, in their pernicious pamphlets; and particularly, Mr. John Booker, a man of known honesty, and one who scornes to calculate for the meridian of Oxford. Snarle not, malignants: if you do, here's rope enough for you, and all that love the Pope.</title>
+                  <author>Booker, John, 1603-1667.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed according to order, for G. Bishop,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Septemb. 27. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Booker.  Cf. NUC pre-1956.</note>
+                  <note>A reply to: Taylor, John.  John Taylor being yet unhanged, sends greeting, to John Booker (1644).</note>
+                  <note>A variant of the edition with "printed for G.B. Septemb. 28. 1644" in imprint.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Taylor, John, 1580-1653. --  John Taylor being yet unhanged, sends greeting, to John Booker.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154775:1" rendition="simple:additions"/>
+            <p>
+               <hi>A Rope Treble-twisted,</hi> FOR JOHN TAYLER <hi>THE</hi> WATER-POET.</p>
+            <p>
+               <hi>Or Rather</hi> For his Malignant friends in <hi>London,</hi> which make uſe of his to <hi>Name</hi> to ſlander and abuſe the PARLIAMENT, and well-affected party, in their Pernicious Pamphlets; and particularly, Mr. JOHN BOOKER, a Man of known honeſty, and one who ſcornes to <hi>Calculate</hi> for the <hi>Meridian</hi> of <hi>OXFORD.</hi>
+            </p>
+            <q>
+               <l>Snarle not, Malignants: If you doe, here's Rope</l>
+               <l>Enough for you, and all that love the Pope.</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed according to Order, of <hi>G. Biſhop. Septemb.</hi> 27. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:154775:2"/>
+            <pb n="3" facs="tcp:154775:2"/>
+            <head>
+               <hi>A Rope Treble-twiſted,</hi> FOR IOHN TAYLER THE WATER-POET, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here is another vile Pamphlet come abroad under the name of <hi>John Tayler,</hi> the Title running after this manner: <hi>John Tayler being yet unhanged ſends greeting to John Booker, &amp;c.</hi> Now you muſt ſup<g ref="char:EOLhyphen"/>poſe that this Pamphlet came from <hi>Oxford,</hi> or from ſome ſuch deſperate place, that dares owne a Treaſonous Calumnie againſt the <hi>Parliament:</hi> But I am confident, that if you wander through thoſe many confuſed ſheets of audacious <hi>Auli<g ref="char:EOLhyphen"/>cus,</hi> or thoſe infinite other pernicious Papers, the very vomit and filth of Malignant Preſſes, throwne at the very faces of the moſt High and Sacred Senate in <hi>Christendome,</hi> and you ſhall finde that this peece of Ribaldry fra<g ref="char:EOLhyphen"/>med in <hi>London,</hi> (I dare boldly ſay in <hi>London</hi>) hath out-ſtript them all: For whereas others have delivered themſelves more myſteriouſly and cloſely, yet plainly enough; this wretch is more down-right than any, and ſpirits his venome moſt contemptibly, without feare or wit. I petition <hi>The moſt High and Honourable Court of Parliament,</hi> to take this into conſideration, and give order that enquiry be made concerning the <hi>Author</hi> and <hi>Printer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> It is ſuppoſed that the Author of the many-leav'd Pamphlet called <hi>Sacra Nemeſis,</hi> ſhould pen it: But whoſoever it be that made it, it is evident enough that a <hi>London</hi> Preſſe ſent it abroad: I ſhall name no body, leſt be<g ref="char:EOLhyphen"/>ing fore-warned they be fore-armed, but remaine in ſilence till a fit op<g ref="char:EOLhyphen"/>portunity.</p>
+            <p>This I have ſaid in earneſt; but becauſe it is good now and then in theſe ſad times, to be in jeſt; we will ſuppoſe that <hi>very Knave,</hi> not <hi>merry Knave, John Tayler,</hi> to be the Author, and that it might be Printed in <hi>Oxford,</hi> though it be known it was in <hi>London</hi> very featly, and madly, and odly, and
+<pb n="4" facs="tcp:154775:3"/> ungodly penned and contrived. For it ſeemes this Fox, this <hi>Daniel</hi> int<g ref="char:EOLunhyphen"/>den, this Scar-crow <hi>Iack Tayler,</hi> ſtrives not ſo much to clip Mr. <hi>Bookers</hi> credit with his Popiſh Sizzars, as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o wound the Parliament, and all thoſe that are well-affected to their Cauſe and juſt Quarrell. Firſt he calls the Parl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ament, <hi>A meere Conventicle, or not the ſhade of a ſhadow of what it ſhould be</hi> My Maſters, is it not time to look about us, and viſit our new, <hi>Oxford</hi> in <hi>London,</hi> I meane the Viperous Nurſery in <hi>Ald<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſgate ſtreet,</hi> and her Si<g ref="char:EOLhyphen"/>ſter in iniquity upon <hi>Holborn-Hill?</hi> It ſeemes the <hi>Belialiſts</hi> have left off prying into the Controverſies of <hi>Purgatory,</hi> and <hi>Limbus Patrum,</hi> and the reconciling of <hi>Luther,</hi> and <hi>Calvin,</hi> to <hi>Bellarmine</hi> and <hi>Maldonat,</hi> Pro<g ref="char:EOLhyphen"/>teſtantiſme to Popery, the Church of <hi>England,</hi> to the Church of <hi>Rome</hi> and un<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rtaken another <hi>Bellum Epiſcopale,</hi> a wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re with paper-pellets againſt honeſt Mr. <hi>Booker,</hi> in the behalfe of <hi>John Tayler,</hi> the Water-Poet; or ra<g ref="char:EOLhyphen"/>ther in the behalfe of Poperie: But how can they hope for ſucceſſe now <hi>Canterbury</hi> their <hi>Reverend Father in — halter</hi> is like to be hanged? Me thinkes his very <hi>Diary</hi> ſhould be enough to convince the veryeſt <hi>Sot</hi> in <hi>Fly</hi> or <hi>Peter-Houſe.</hi> Well, well, <hi>Jack Tayler,</hi> thou art a brave fellow; for thy Water-workes being now of ſome ſtanding in <hi>Bolley's Library</hi> the Divines will are long begin to quote thee; for they maintaine Controver<g ref="char:EOLhyphen"/>ſies for thee already; but their falſe Comments are too too obſcean and railing againſt the State, ſavouring more of ſcurrility and malice, than rea<g ref="char:EOLhyphen"/>ſon or wit: And on the other ſide, according to former cuſtome, and the later of <hi>Maximes</hi> of Paraſiticall <hi>Theologaſters,</hi> (one whereof was this; That it was <hi>better to be a Spaniell at Court for a while, than to Kennell in a Coll<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dge all ones life time</hi>) their flattering of the King, Q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eene, and Court in wic<g ref="char:EOLhyphen"/>ked wayes, is as ſhamefull and ridiculous as ever. But I muſt let them alone (it ſeemes) and ſticke cloſe to my Single Water-man in the Title page; for it ſeemes the beſt heads in <hi>Peter Houſe</hi> will amount to no more but <hi>John Tayler.</hi>
+            </p>
+            <p>I will not aske you, <hi>John Tayler,</hi> of how long ſtanding you have been in the Malignant <hi>Corporation</hi> of <hi>Peter-houſe,</hi> nor whether you are the Rat that was hanged lately in a <hi>Boat</hi> upon a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar of <hi>Oares,</hi> or the Ghoſt of that meaneſt of watery inhabitants, <hi>poor John</hi> at <hi>Oxford;</hi> but I perceive thy writing reliſhes of his Malignant ſpirit: Thou ſtriveſt to delude, and make as beleeve the King, the Queene, the Lords, (when I mention them I doe not reckon <hi>Harry Jermyn</hi>) Clergy, Univerſity, Army, Magiſtrates, and Commons, are <hi>true Proteſtant pen-proofe.</hi> But why then was his Majeſties Signet in a Commiſſion to the <hi>Iriſh Rebells,</hi> to cut the throats of all true Proteſtants there? and another Commiſſion ſent to the Marqueſſe of <hi>Or<g ref="char:EOLhyphen"/>mond</hi> to make a Ceſſation with thoſe wretches, which to any man not void of ſence and reaſon, did at the firſt, and ſince alſo Experimentally hath ap<g ref="char:EOLhyphen"/>peared
+<pb n="5" facs="tcp:154775:3"/> moſt deſtructive to the Proteſtant Cauſe? For the <hi>Rebells</hi> by this meanes, have had leiſure ſo to furniſh and provide themſelves, that they appeare now in the Eield more in number, and better armed, than ever they could poſſibly have been. How can the Queene be pen-proofe, after all theſe Murderings and Maſſacrings perpetrated in <hi>England</hi> and <hi>Ireland,</hi> by her Counſells, wherein alſo ſhe was and is a principal Agent, when as in the very height of her pompe and power, ſhee was neither pen-proofe, nor tongue-proofe, even amongſt her owne Courtiers and Paraſites? How many drie jeſts have been broken upon <hi>Her</hi> and <hi>Harry</hi> on the Publique Stage? As, <hi>I prethee where ſhall wee finde Jermyn? — At the Queenes Armes;</hi> Adde to this the bandy Songs ſung ordinarily at Court, wherein <hi>Hall</hi> and <hi>Mall</hi> met to make Rime; and another beaſtly Song, not fit for a womans eares; which if any of that Sex can delight in, a man may gueſſe at the Conſtitution without Calculating her Nativity: And becauſe now it is no time to dally, when they dare be ſo impudently abuſive on the other ſide; as they unjuſtly charge us with many falſhoods moſt baſely; I think it cannot be amiſſe to repay them againe with trueth, though I in<g ref="char:EOLhyphen"/>tended for Honours ſake, if there were any hope of returning, never to have put it to the common view: I will therefore Print <hi>Harry's delight,</hi> the limber Gentleman (I meane) that rode away hence in Spaniſh-leather bootes, with a little more haſte then ordinary, having a Parliament Spurre in his Conſcience.</p>
+            <lg>
+               <head>JERMYNS SONNET.</head>
+               <l>Poxe take your Philters, and your Charmes,</l>
+               <l>No Witchcraft like a Lovers Armes;</l>
+               <l>Nor any fond device to bind</l>
+               <l>So ſure, as cling, aad lie cloſe twin'd:</l>
+               <l>A certain Spell, that will Enchaunt,</l>
+               <l>Is off r home, and keep the haunt.</l>
+               <l>Then <hi>Chymiſts,</hi> out upon your traſh,</l>
+               <l>Your letter-coniur'd <hi>Balder-daſh,</hi>
+               </l>
+               <l>Your Amulets, charm'd bracelets, rings</l>
+               <l>Valued with the Crownes of Kings;</l>
+               <l>Your <hi>Calcin'd,</hi> parcells of dead men,</l>
+               <l>
+                  <hi>Sperme</hi> caught from <hi>Cockes</hi> treading the Hen,</l>
+               <l>And us'd I know not how: Pull downe</l>
+               <l>Your <hi>Stills,</hi> and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaſe to cheat the Towne.</l>
+               <l>But let them ſtand to make <hi>Elix<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r</hi>
+               </l>
+               <l>For us <hi>Madams</hi> that cry <hi>Quick-Sir,</hi>
+               </l>
+               <l>Or you'll h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>are on't; becauſe we then</l>
+               <l>Shall find no differences in Men.</l>
+               <pb n="6" facs="tcp:154775:4"/>
+               <l>And will it not be ſtrange alacke,</l>
+               <l>That ſince my Lord has a weake backe,</l>
+               <l>We may not diet him or his Page!</l>
+               <l>T'will put us all into a rage,</l>
+               <l>And make us take our Groomes, by ſtealth,</l>
+               <l>To breed baſe blood ith' common wealth.</l>
+               <l>'Tis fit (Sirs) then, you let them ſtand,</l>
+               <l>To keepe the Gentry of the Land</l>
+               <l>In able plight, that they may ſerve,</l>
+               <l>As men of the more ſolid Nerve,</l>
+               <l>And ſtrenuouſly goe thorow ſtitch</l>
+               <l>Without a Lever at the breech.</l>
+            </lg>
+            <p>I hope <hi>John Tayler,</hi> you will not be angry that I have broached this peece of Cloſet-converſation: I have printed thus much to ſhew you that her Majeſty is not altogether pen-proofe: And I could alſo make a long Diſcourſe to ſhew you, that neither you <hi>Peeres, Clergy, <g ref="char:V">Ʋ</g>niverſity, Army, Magistrates, are Pen-proofe,</hi> becauſe they are neither Parliament-proofe, nor Reaſon-proofe: But my principall aime is to take notice of the ma<g ref="char:EOLhyphen"/>ny villanies, and intolerable abuſes, heaped up in thy vile Pamphlet againſt the Parliament, and thoſe that are well affected: But as you have a tricke of Vilifying ſuch men; ſo alſo of Magnifying thoſe of your owne partee, though never ſo bloody and deſperate. And therefore thou art in great wrath with <hi>Mr. Booker</hi> for calling <hi>Rupert</hi> plaine <hi>Rupert,</hi> without addition of <hi>His Highneſſe,</hi> and for giving him the tearms of <hi>Saladine</hi> and <hi>Sarazen,</hi> which thou ſayeſt are <hi>Turkiſh Titles;</hi> and therefore I ſay, they are the fitteſt for him, who hath Murder'd and Plunder'd himſelf into a capacity for the worſt of Titles, to expreſſe his Cruelty.</p>
+            <p>Thou rail<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt againſt Mr. <hi>May, Wither, Britannicus,</hi> the <hi>Scout,</hi> the poor innocent <hi>Dove,</hi> and ſay'ſt that they are not able ſo much as to ſcratch or touch thy reput<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion, or <hi>Aulicus</hi> and <hi>Naworth.</hi> Alas, thy reputation is neither to be ſcratch't, nor touch't, it was loſt long ſince upon the <hi>Banke<g ref="char:EOLhyphen"/>ſide:</hi> And as for thy Abe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tors in <hi>Ely</hi>-houſe and <hi>Peter</hi>-houſe, the wretched unchurched Prieſts there, they never were in repute any where but at <hi>Rome,</hi> and <hi>the Court;</hi> which (by none of the <hi>Simpleſt Converſions</hi>) might ver<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> well have been called the Court of <hi>Rome: Aulicus</hi> has utterly loſt his credit both with friends and foes, in ſo baſely belying the buſines at <hi>Yorke,</hi> and ſetting them to make <hi>Bon-fires</hi> in <hi>Oxford</hi> for a victory, when the Ma<g ref="char:EOLhyphen"/>lignant Forces were ſhattered into an impoſſibility of re-uniting, and qui e beaten out of the Field, which hath made the Planet <hi>Mercury</hi> very dull ever ſince in his Influence, and given a <hi>Quictus eſt</hi> to <hi>George Na<g ref="char:EOLhyphen"/>worth,</hi>
+               <pb n="7" facs="tcp:154775:4"/> for ever daring to <hi>Prognoſticate</hi> againe in the behalf of Popery, Ty<g ref="char:EOLhyphen"/>ranny, and Rebellion againſt the State. Thou ſay'ſt that <hi>Naworth</hi> never knew of the Printing thy former Book anſwered by Mr. <hi>Booker;</hi> but that Pamphlet was part of the fruits of hungry <hi>George's</hi> old malice, inſpired into thy deteſtable braines: And if thou ſhouldſt faile, every <hi>Centurian,</hi> that is, every ſcandalous and Malignant Prieſt, that deſerves a Name in another <hi>Centurie,</hi> can finde a Pen to Apologize for <hi>Naworth,</hi> and vilifie honeſt Mr. <hi>Booker:</hi> But it is no ſmall argument of his Integrity, to be ill-ſpoken of by thee, and them.</p>
+            <p>But I ſhall leave taking notice of any thing elſe in thy vile, baſe, and ſcandalous Pamphlet, beſides that filth and venome which thou, (thou Counterfet <hi>John Tayler</hi>) haſt vomited out againſt the Parliament. I much wonder that any Preſſe in <hi>London</hi> ſhould dare to be defiled with ſuch lewd, and abominable ſtuffe, and with what confidence any durſt write theſe words, under the Name of <hi>John Tayler,</hi> againſt the State. <hi>Your Nick name Parliament doth not onely maintaine and retaine a ſcattered heard of ſcribling villaines, but alſo they doe allow muſt reſpect, favour, countenance, and meanes, to him that can lie, raile, and ſlander moſt: therefore I conclude, if they were a Parliament, the Sacred Name and Honour of His Majestie ſhould not be ſuf<g ref="char:EOLhyphen"/>fered to be abuſed ſo tranſcendently (beyond all precedents) but that they would by Law and Parliamentary Authority, ſend ye all to</hi> Gregories <hi>market, and feed Crowes with your traiterous miſchievous heads, and filthy, treacherous, rebellious, ſtinking quartered Carcaſes; therefore no Parliament.</hi> And then a little lower theſe words follow: <hi>But as they are, and the condition they now are in, they have no other way of ſupportation, but what proceeds from the blacke mouthes of your z<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alous, Atheisticall long winded Preachers (or Tantologicall prating Lectures) with the aide of your holy Tribe of accurſed Pamphlet<g ref="char:EOLhyphen"/>mongers: It is you that, with your ſpirituall and temporall damnable devoti<g ref="char:EOLhyphen"/>ons, and infernall practiſes, doe uphold the uſurped dignity of that Idoll. Dagon-Senate,</hi> &amp;c. <hi>Therefore it is no marvell, if they maintain you, for you are the onely props that uphold them; when you give over lying, them their Ho<g ref="char:EOLhyphen"/>nour will lie in the duſt, and when they fall you will be in danger of ſterving: For as</hi> Phocas <hi>by the murder of his Master</hi> (Mauritius <hi>the</hi> Roman <hi>Empe<g ref="char:EOLhyphen"/>rour) gate the Empire to himſelf, but was held in an odious eſtimation amongſt all good men, ſo that his uſurped ill got Eſtate ſtood tottering, and his life in dai<g ref="char:EOLhyphen"/>ly hazard (by the friends of the aſſaſſinated Emperour) at the ſame time, the Biſhop of</hi> Rome (Boniface) <hi>ambitouſly ſought to be chiefe and <g ref="char:V">Ʋ</g>niverſall Biſhop over all Christian Churches, which pride of his was oppoſed by all the Godly and zealous Biſhops in the world: But at laſt the Murderer</hi> Phocas, <hi>and the aſpiring Pope made a bargaine, which was, that the Pope ſhould by his dreadfull thunder-bolts of Excommunication, aff ight the people into obedience
+<pb n="8" facs="tcp:154775:5"/> with the Emperour; ſo the Emperour (by force of Armes) would beſtow the Primacy of the whole earth upon the Pope; this match was made, and the moſt ſignificant application of it is, that by as good right as</hi> Phocas <hi>reigned, by the like right doth</hi> Bookers <hi>Parliament rule, and by the ſame right doe thoſe fore<g ref="char:EOLhyphen"/>mentioned villaines, and they may defend each other by murder, Sacriledge, Am<g ref="char:EOLhyphen"/>bition, Treaſon, Rebellion, and ruine of this auncient, famous, late flouriſhing, and now moſt wretched and miſerable</hi> England.</p>
+            <p>Was ever ſuch language as this vented againſt the honour of a Parlia<g ref="char:EOLhyphen"/>ment! I once more petition that Honourable Aſſembly, that Order may be given, for the enquiring out the Author and vender of this unreaſo<g ref="char:EOLhyphen"/>nable railing paper; and I queſtion not, but they will be quickly found out, to be made an example to others, who drive a trade with theſe, and ſuch like pernicious Pamphlets; which uſually ſell ſo much the better, by how much the more audaciouſly they diſhonour the Parliament. I thoughts Maſter <hi>Booker</hi> had ſet forth a <hi>Cordiall</hi> ſufficient to cure all their <hi>Malignant ſits:</hi> But I perceive that the beſt <hi>Phyſick</hi> a vailes little without a Method and orderly courſe: Therefore upon better advice, it is thought convenient, that all deſperate <hi>Malignants</hi> ſhould be thus handled; firſt, becauſe the <hi>Signe</hi> is in the Heart, let them blood in the <hi>Baſilicke</hi> veine, Afterwards,
+<list>
+                  <item>
+                     <hi>Rs.</hi> Half an Ounce of <hi>Spaniſh Figgs,</hi> codled at Court in an <hi>Italian</hi> Skillet.</item>
+                  <item>Of the <hi>quint-eſſence</hi> of Cock-ſparrowes, according to the <hi>Queen Mothers</hi> preſcript, one <hi>ſcruple</hi> and a halfe.</item>
+                  <item>Gelly of Harts-horne, of <hi>Iermyns</hi> owne making, one <hi>Dram.</hi>
+                  </item>
+                  <item>Proteſtant Religion, <hi>Root and Branch, ana.</hi> one handfull.</item>
+                  <item>Plundered <hi>Penny-Royall,</hi> one bagfull.</item>
+                  <item>Of <hi>Time,</hi> no leſſe then Three yeeres Rebellion in <hi>Ireland,</hi> and as many in <hi>England. ana.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Boyle theſe in as much as you can get of His Majeſties teares of Repen<g ref="char:EOLhyphen"/>tance for blood-ſhed, over an <hi>Oxford</hi> Bon-fire, the length of a Cathedrall <hi>Letany:</hi> Then ſtraine it through the Cape of <hi>Cottingtons</hi> Cloake, and at length ſeaſon it with a graine or two of Northerne Newes, and ſo make a a cleere purging Potion: Let every ſtubborne and ſtupefyed Malignant, that is troubled with a Congelation of Popery in his Braines, drink three ounces of this with due obſervance, and I queſtion not, but it will purge ſo effectually, that their bodies will ever hereafter, be the better prepared for Maſter <hi>Bookers</hi> moſt conſiderable and wholeſome <hi>Cordiall;</hi> the uſe whereof I ſtill commend unto them, as moſt convenient after this ſo ne<g ref="char:EOLhyphen"/>ceſſary a <hi>Purge.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
